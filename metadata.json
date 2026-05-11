@@ -1,0 +1,6 @@
+{
+  "name": "Church Message Generator",
+  "description": "Automated text message generator for church greetings and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
